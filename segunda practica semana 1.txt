@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+</head>
+
+<body>
+    <!-- Healdings-->
+    <h1> Bienvenido comander </h1>
+    <h2> BIENVENIDO COMANDNATE </h2>
+    <H3> bienvenida señora gaia </H3>
+    <h4> de vuelta a casa</h4>
+    <h5> que pedo perros     </h5>
+    <h6> solo somos humanos </h6>
+
+    <!-- parafos -->    
+    <p>
+        Podemos visualizar los parrafos de estructuras de texto comunes que pueden dar la información basica 
+    </p>
+
+    <p>
+        Parrafo dos jsjsjje <br> bueno pero siguiente parrafo no? 
+
+    </p>
+
+    <!--links / enlaces --> 
+
+    <a href="https://web.microsoftstream.com/video/c73b37ee-1522-4773-85ef-a20ae99b7012" target="blanck"> Link a Launch X <br>  </a>
+
+    <!-- Imagenes-->
+
+    <img src="https://i.imgur.com/84QT6os.jpeg" alt="El perrito mas rapido que encontre de internet " width="300" height="300" >
+
+    <!-- tablas -->
+
+    <table>
+        <tr>
+            <th>Compañía</th>
+            <th>Contacto</th>
+            <th>País</th>
+        </tr>
+        <tr>
+            <td>Alfreds Futterkiste</td>
+            <td>Maria Anders</td>
+            <td>Germany</td>
+        </tr>
+        <tr>
+            <td>Centro comercial Moctezuma</td>
+            <td>Francisco Chang</td>
+            <td>Mexico</td>
+        </tr>
+    </table>
+
+    <!-- Lista-->
+    <li> café</li>
+    <ul>
+        <li>Café</li>
+        <li>Arroz</li>
+        <li>leche</li>
+        <li>huevos</li>
+    </ul>
+
+    <ol>
+        <li>Alumno1</li>
+        <li>Alumno2</li>
+        <li>Alumno3</li>
+    </ol>
+
+    <dl>
+        <dt>Enchiladas</dt>
+        <dd>- Tortilla frita con salsa, rellena de pollo</dd>
+        <dt>Molletes</dt>
+        <dd>- Bolillo con frijoles y queso</dd>
+
+    </dl>
+
+</body>
+
+</html>
